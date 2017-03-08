@@ -1,0 +1,72 @@
+# Monday 10th October 2016
+
+## Attendance
+### Present
+Alexion, Billy, Conor, Dario, Dylan, Emmett, Hieu, Kevin, Leon, Owen, Scarlett, Sean
+
+## Apologies
+James, Aaron
+
+## Review of Last Week
+* Slide Storage
+    - In the hands of the admins
+    - Gits
+* Andrew will send an email to knitsoc
+
+## Agenda
+### Billy
+* Billy.
+
+### Post-Reading Week Events
+* 4 of the 5 weeks have no events
+* Billy will give an emacs talk
+    - 3 of the 5 weeks have no events
+* "The Back of the Cloud"
+    - Dario knows an Amazon guy
+* Owen has a facebook contact
+* Movidius/Intel™
+* Arista Networks
+* Asavie Technologies
+* FieldAware
+    - Clojure
+
+* Langs
+    - Regex talk
+    - Latex
+    - Fish?
+    - Web Dev
+    - Haskell Talk (nox?)
+    - Javascript (gross)
+    - Idris
+
+* Week 4
+    - Monk Makes
+    - Electronics starter kit
+
+### Potential Large Donation Conclusions
+* We should come up with a proposal, what we want out of the cash
+* Most likely money is to fall under remit of soc
+* We can provide a uniqe learning environment
+    - Server administation
+    - Experience in administrating has lead to
+    - We _need_ more server space
+        - We _need_ more server space
+            - We _need_ more server space
+    - Upgrade hardware, expertise to install it
+    - Our own opennebula instance
+* Send email to sages
+
+### RMS
+* Andrew -is- going to email the FSF
+* In Europe and Free soon
+
+### Riot Games Security Talk
+* Adam mentioned that someone within Riot would be willing to give talk
+* Links to Riot's Engineering Blog
+* Will email and see
+
+## Todo
+* Andrew
+    - Email the FSF about booking Richard Stallman
+    - Email Adam at Riot Games
+* Andrew will email Adam
